@@ -1,0 +1,24 @@
+# === Core Web Backend ===
+fastapi
+uvicorn
+python-multipart
+jinja2
+aiofiles
+
+# === Local LLMs via LangChain & Ollama ===
+langchain
+langchain-community
+ollama
+tqdm
+
+# === Vector Database & RAG Tools ===
+chromadb
+langchain-core
+langchain-text-splitters
+
+# === PDF Handling & Text Processing ===
+pymupdf          # for PDF text extraction
+markdown2        # for formatting if needed
+
+# === Validation & Utilities ===
+pydantic
